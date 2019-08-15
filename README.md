@@ -1,12 +1,21 @@
 # Sample-Web-Scraper
+
 #////////////////////////////////////////////////////////////////////////
-#// AutobotStover.py - Web Scraper                                    //
-#// Language: Python 2.7, VISUAL STUDIO 2015                         //
-#// ver 1.0                                                         //
-#// Author: Rajesh Ramesh, Summer Intern 2017                      //
-#// Application: Analytics Project for Jivox                      //
-#// Platform: Apple Macbook Pro 2015, Windows 10                 //
+
+#// AutobotStover.py - Web Scraper   
+
+#// Language: Python 2.7, VISUAL STUDIO 2015    
+
+#// ver 1.0                                    
+
+#// Author: Rajesh Ramesh, Summer Intern 2017   
+
+#// Application: Analytics Project for Jivox     
+
+#// Platform: Apple Macbook Pro 2015, Windows 10     
+
 #/////////////////////////////////////////////////////////////////
+
 #/*
 # * Package Operations:
 #  -------------------
